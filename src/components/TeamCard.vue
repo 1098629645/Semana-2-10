@@ -1,7 +1,7 @@
 <template>
-    <div>
+    <div class="align-self-stretch">
         
-        <div class="card text-white bg-dark">
+        <div class="card text-white bg-dark d-flex">
             <div class="d-flex justify-content-center p-2">
                 <img :src= "member.image" alt="" height="200px">
                 

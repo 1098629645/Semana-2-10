@@ -18,7 +18,7 @@
     <!-- members -->
     <div class="container-fluid">
       <div class="row justify-content-center mb-5">
-        <div class="col mt-5" v-for="(miembro, index) of Team" :key="index">
+        <div class="col mt-5 d-flex" v-for="(miembro, index) of Team" :key="index">
           <teamCard :member=miembro></teamCard>
         </div>
       </div>
@@ -55,7 +55,7 @@ export default {
       {
         codigo: 1,
         nombre: "Sebastian",
-        descripcion: "estudiante de Ingeneria en Control del Politecnico Jaime Isaza Cadavid en Medellin.",
+        descripcion: "Estudiante de Ingeneria de Control del Politecnico en Medellin.",
         rol: "Desarrollo TeamCard",
         image: 'https://imgur.com/Ez4ovbj.jpg'
       },
@@ -76,7 +76,7 @@ export default {
       {
         codigo: 4,
         nombre: "Alejandro",
-        descripcion: "estudiante de ingeniería industrial en la universidad de Antioquia",
+        descripcion: "Estudiante de ingeniería industrial en la Universidad de Antioquia",
         rol: "Desarrollo Services",
         image: 'https://imgur.com/S3pXvoH.jpg'
       }
