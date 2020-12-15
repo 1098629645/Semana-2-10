@@ -44,7 +44,7 @@ export default {
   components: {
     NewsSection,
     TeamCard,
-    ImageText,
+    ImageText, 
     Carousel,
     Services,
     Footer,
