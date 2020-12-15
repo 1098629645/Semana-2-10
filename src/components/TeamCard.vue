@@ -14,7 +14,7 @@
                 <small class="text-muted">{{member.rol}}</small>
             </div>
         </div>
-    </div>    
+    </div>
 </template>
 
 <script>
