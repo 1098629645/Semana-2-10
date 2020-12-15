@@ -15,7 +15,7 @@
 
             </div>
             <div class="d-flex container-fluid justify-content-end pb-2 mt-n2">
-                <button type="button" class="btn btn-outline-info"><a href="newsd.url" target="_blank">Info</a></button>
+                <button type="button" class="btn btn-outline-info"><a v-bind:href="newsd.url" target="_blank">Info</a></button>
             </div>
         </div>
     </div>
