@@ -11,7 +11,7 @@
                 <p class="card-text">{{member.descripcion}}</p>
             </div>
             <div class="card-footer">
-                <small class="text-muted">{{member.rol}}</small>
+                <small class="text-muted">{{member.rol}} <br> Codigo: {{member.codigo}}</small>
             </div>
         </div>
     </div>
