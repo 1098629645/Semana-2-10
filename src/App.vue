@@ -11,12 +11,12 @@
     <services></services>
 
     <!-- news -->
-    <div class="container-fluid">
+    <div class="container-fluid" id="Newsnave">
       <newsSection></newsSection>
     </div>
 
     <!-- members -->
-    <div class="container-fluid">
+    <div class="container-fluid" id="Teamnave">
       <div class="row justify-content-center mb-5">
         <div class="col mt-5 d-flex" v-for="(miembro, index) of Team" :key="index">
           <teamCard :member=miembro></teamCard>

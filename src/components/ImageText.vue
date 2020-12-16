@@ -6,17 +6,17 @@
         </a>
         <div class="collapse navbar-collapse justify-content-end " id="navbarNav ">
             <ul class="navbar-nav ">
-                <li class="nav-item active ">
-                    <a class="nav-link " href="# ">Home <span class="sr-only ">(current)</span></a>
+                <li class="nav-item ">
+                    <a class="nav-link " href="#carouselExampleCaptions"> Header </a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link " href="# ">Features</a>
+                    <a class="nav-link  " href="#Servicesnav"> Services </a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link " href="# ">Pricing</a>
+                    <a class="nav-link " href="#Newsnave"> News </a>
                 </li>
-                <li class="nav-item ">
-                    <a class="nav-link disabled " href="# " tabindex="-1 " aria-disabled="true ">Disabled</a>
+                <li class="nav-item">
+                    <a class="nav-link " href="#Teamnave"> Team </a>
                 </li>
             </ul>
         </div>
