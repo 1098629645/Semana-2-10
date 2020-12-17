@@ -1,38 +1,36 @@
 <template>
-    <footer class="page-footer bg-secondary text-white pt-4">
+   
+<!-- Footer -->
+<footer class="page-footer bg-secondary text-white pt-4">
 
     <!-- Footer Text -->
     <div class="container-fluid text-center text-md-left">
 
         <!-- Grid row -->
         <div class="row">
+                  <div class="col-sm-6" style="margin-top:1%;text-align:right;">
+                        <h5>Mario Valencia</h5>
+                        <h6>Celular: 3226819465 </h6>
+                    </div>
+                  <div class="col-sm-6" style="margin-top:1%;text-align:left;">
+                        <h5>Rubén Rodríguez</h5>
+                        <h6>Celular: 3214910175</h6>
+                    </div>
+                    <div class="col-sm-6" style="margin-top:1%;text-align:right;">
+                        <h5>Sebastián Carmona</h5>
+                        <h6>Celular: 3195150665 </h6>
+                    </div>
+                  <div class="col-sm-6" style="margin-top:1%;text-align:left;">
+                        <h5>Estefania Osma</h5>
+                        <h6>Celular: 3134310893</h6>
+                    </div>
 
-            <!-- Grid column -->
-            <div class="col-md-6 mt-md-0 mt-3">
+                  <div class="col-sm-5" style="margin-top:1%">
+                        <h5>Instagram de la página</h5>
+                        <h6>Seed_On_</h6>
+                    </div>
 
-                <!-- Content -->
-                <h5 class="text-uppercase font-weight-bold">Footer text 1</h5>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita sapiente sint, nulla, nihil repudiandae
-                    commodi voluptatibus corrupti animi sequi aliquid magnam debitis, maxime quam recusandae harum esse fugiat.
-                    Itaque, culpa?</p>
-
-            </div>
-            <!-- Grid column -->
-
-            <hr class="clearfix w-100 d-md-none pb-3">
-
-            <!-- Grid column -->
-            <div class="col-md-6 mb-md-0 mb-3">
-
-                <!-- Content -->
-                <h5 class="text-uppercase font-weight-bold">Footer text 2</h5>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio deserunt fuga perferendis modi earum commodi
-                    aperiam temporibus quod nulla nesciunt aliquid debitis ullam omnis quos ipsam, aspernatur id excepturi
-                    hic.</p>
-
-            </div>
-            <!-- Grid column -->
-
+           
         </div>
         <!-- Grid row -->
 
@@ -40,11 +38,12 @@
     <!-- Footer Text -->
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-1 bg-dark">© 2020 Copyright: DAD
+    <div class="footer-copyright text-center py-1 bg-dark">© 2020 Copyright
     </div>
     <!-- Copyright -->
 
-    </footer>
+</footer>
+
 </template>
 
 <script>
@@ -52,3 +51,6 @@ export default {
     name: "Footer",
 }
 </script>
+<style scoped>
+
+</style>

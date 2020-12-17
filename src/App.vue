@@ -5,6 +5,7 @@
     <imageText></imageText>
 
     <!-- carousel -->
+    
     <carousel></carousel>
 
     <!-- services -->
@@ -26,8 +27,6 @@
 
     <!-- Footer -->
     <Footer></Footer>
-
-
   </div>
 </template>
 
@@ -83,7 +82,9 @@ export default {
     ]
     }
   }
+  
 }
+
 </script>
 
 

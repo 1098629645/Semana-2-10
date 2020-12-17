@@ -1,8 +1,8 @@
 <template>
     <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark ">
         <a class="navbar-brand " href="# ">
-            <img src="https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-solid.svg " width="30 " height="30
-        " class="d-inline-block align-top " alt=" " loading="lazy "> Bootstrap
+            <img src="https://i.imgur.com/pTwfbR0.jpg" width="30 " height="30
+        " class="d-inline-block align-top " alt=" " loading="lazy "> Seed On
         </a>
         <div class="collapse navbar-collapse justify-content-end " id="navbarNav ">
             <ul class="navbar-nav ">
@@ -13,7 +13,7 @@
                     <a class="nav-link " href="# ">Features</a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link " href="# ">Pricing</a>
+                    <a class="nav-link " href="# ">Noticias</a>
                 </li>
                 <li class="nav-item ">
                     <a class="nav-link disabled " href="# " tabindex="-1 " aria-disabled="true ">Disabled</a>
