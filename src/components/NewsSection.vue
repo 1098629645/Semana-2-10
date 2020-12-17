@@ -38,3 +38,14 @@ export default {
 }
 </script>
 
+
+<style scoped>
+
+.row mt-md-5 mt-sm-5 mt-xs-5{
+    border: 5px blue block;
+}
+
+.col-lg-6 col-xs-12{
+    border: 5px blue block;
+}
+</style>

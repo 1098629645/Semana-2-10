@@ -6,17 +6,21 @@
         </a>
         <div class="collapse navbar-collapse justify-content-end " id="navbarNav ">
             <ul class="navbar-nav ">
-                <li class="nav-item active ">
-                    <a class="nav-link " href="# ">Home <span class="sr-only ">(current)</span></a>
+                <li class="nav-item ">
+                    <a class="nav-link " href="#carouselExampleCaptions"> Header </a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link " href="# ">Features</a>
-                </li>
-                <li class="nav-item ">
+<<<<<<< HEAD
                     <a class="nav-link " href="# ">Noticias</a>
+=======
+                    <a class="nav-link  " href="#Servicesnav"> Services </a>
+>>>>>>> 680ba96a330af91c62a4b70d19ff4bd752439001
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link disabled " href="# " tabindex="-1 " aria-disabled="true ">Disabled</a>
+                    <a class="nav-link " href="#Newsnave"> News </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="#Teamnave"> Team </a>
                 </li>
             </ul>
         </div>
